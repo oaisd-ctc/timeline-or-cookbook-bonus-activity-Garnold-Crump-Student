@@ -1,0 +1,6 @@
+h1 {text-align: center;}
+body {background-color: darkgreen;}
+div {background-color: lightblue;   height: 500px;
+    border-radius: 10px;
+    margin:5px;
+max-width: 500px;}
